@@ -1,0 +1,2034 @@
+[
+    {
+        "word": "addition",
+        "translate":"תוספת, הוספה"
+    },
+    {
+            "word": "advance [n]",
+            "translate":"התקדמות"
+    },
+    {
+            "word": "advanced",
+            "translate":"מתקדם"
+    },
+    {
+            "word": "advertising",
+            "translate":"פרסום"
+    },
+    {
+            "word": "among other things",
+            "translate":"בין היתר"
+    },
+    {
+            "word": "analysis",
+            "translate":"ניתוח, אנליזה"
+    },
+    {
+            "word": "appear",
+            "translate":"להיראות, להופיע"
+    },
+    {
+            "word": "approach",
+            "translate":"גישה, לגשת"
+    },
+    {
+            "word": "as",
+            "translate":"כפי ש"
+    },
+    {
+            "word": "at least",
+            "translate":"לפחות"
+    },
+    {
+            "word": "average",
+            "translate":"ממוצע"
+    },
+    {
+            "word": "be responsible for",
+            "translate":"להיות אחראי ל"
+    },
+    {
+            "word": "before",
+            "translate":"לפני"
+    },
+    {
+            "word": "besides",
+            "translate":"חוץ מ"
+    },
+    {
+            "word": "can",
+            "translate":"יכול, פחית"
+    },
+    {
+            "word": "challenge",
+            "translate":"לאתגר, אתגר"
+    },
+    {
+            "word": "chance",
+            "translate":"סיכוי, הזדמנות"
+    },
+    {
+            "word": "change",
+            "translate":"לשנות, להחליף"
+    },
+    {
+            "word": "characteristic",
+            "translate":"מאפיין, תכונה"
+    },
+    {
+            "word": "characterize",
+            "translate":"לאפיין, לתאר"
+    },
+    {
+            "word": "claim",
+            "translate":"לטעון, טענה"
+    },
+    {
+            "word": "common",
+            "translate":"נפוץ"
+    },
+    {
+            "word": "complicated",
+            "translate":"מסובך, מורכב"
+    },
+    {
+            "word": "concern",
+            "translate":"דאגה, עניין, לדאוג"
+    },
+    {
+            "word": "conditions",
+            "translate":"תנאים, מצבים"
+    },
+    {
+            "word": "conduct",
+            "translate":"לערוך"
+    },
+    {
+            "word": "consequence",
+            "translate":"תוצאה, השלכה"
+    },
+    {
+            "word": "considerable",
+            "translate":"ניכר, חשוב"
+    },
+    {
+            "word": "cope",
+            "translate":"להתמודד"
+    },
+    {
+            "word": "critic",
+            "translate":"מבקר [ביקורת]"
+    },
+    {
+            "word": "current",
+            "translate":"נוכחי"
+    },
+    {
+            "word": "decrease",
+            "translate":"להפחית, ירידה"
+    },
+    {
+            "word": "delayed [adj.]",
+            "translate":"מעוכב"
+    },
+    {
+            "word": "deliberately",
+            "translate":"בכוונה תחילה"
+    },
+    {
+            "word": "demonstrate",
+            "translate":"להפגין, להדגים"
+    },
+    {
+            "word": "design",
+            "translate":"לעצב, עיצוב"
+    },
+    {
+            "word": "destruction",
+            "translate":"הרס, חורבן"
+    },
+    {
+            "word": "development",
+            "translate":"פיתוח, התפתחות"
+    },
+    {
+            "word": "disagreement",
+            "translate":"חוסר הסכמה"
+    },
+    {
+            "word": "disaster",
+            "translate":"אסון"
+    },
+    {
+            "word": "discovery",
+            "translate":"תגלית, גילוי"
+    },
+    {
+            "word": "dislike",
+            "translate":"לא לאהוב"
+    },
+    {
+            "word": "doubt",
+            "translate":"להטיל ספק, ספק"
+    },
+    {
+            "word": "drop",
+            "translate":"להפיל, טיפה"
+    },
+    {
+            "word": "educate",
+            "translate":"לחנך, ללמד"
+    },
+    {
+            "word": "efficient",
+            "translate":"יעיל"
+    },
+    {
+            "word": "emphasis",
+            "translate":"דגש, הדגשה"
+    },
+    {
+            "word": "enjoyable",
+            "translate":"מהנה"
+    },
+    {
+            "word": "essay",
+            "translate":"חיבור"
+    },
+    {
+            "word": "essentially",
+            "translate":"בעיקרו, במהותו"
+    },
+    {
+            "word": "even if",
+            "translate":"אפילו אם"
+    },
+    {
+            "word": "even though",
+            "translate":"למרות ש"
+    },
+    {
+            "word": "event",
+            "translate":"אירוע, מאורע"
+    },
+    {
+            "word": "exactly",
+            "translate":"בדיוק"
+    },
+    {
+            "word": "except that",
+            "translate":"אלא ש"
+    },
+    {
+            "word": "exist",
+            "translate":"להיות קיים"
+    },
+    {
+            "word": "extraordinary",
+            "translate":"יוצא מן הכלל, יוצא דופן"
+    },
+    {
+            "word": "feature",
+            "translate":"מאפיין"
+    },
+    {
+            "word": "feedback",
+            "translate":"משוב,ביקורת"
+    },
+    {
+            "word": "figure [n]",
+            "translate":"דמות"
+    },
+    {
+            "word": "financial",
+            "translate":"כספי"
+    },
+    {
+            "word": "findings",
+            "translate":"ממצאים"
+    },
+    {
+            "word": "flexible",
+            "translate":"גמיש"
+    },
+    {
+            "word": "flood",
+            "translate":"שיטפון, הצפה, להציף, לעלות על גדותיו"
+    },
+    {
+            "word": "flu",
+            "translate":"שפעת"
+    },
+    {
+            "word": "focus on/upon",
+            "translate":"להתמקד ב"
+    },
+    {
+            "word": "focus",
+            "translate":"מיקוד"
+    },
+    {
+            "word": "frequent",
+            "translate":"תדיר, תכוף"
+    },
+    {
+            "word": "fresh",
+            "translate":"טרי, רענן, חצוף"
+    },
+    {
+            "word": "frighten",
+            "translate":"להפחיד"
+    },
+    {
+            "word": "gain",
+            "translate":"להרוויח, להשיג"
+    },
+    {
+            "word": "generate",
+            "translate":"ליצור, לחולל"
+    },
+    {
+            "word": "guidance",
+            "translate":"הנחיה, הכוונה, הנהגה"
+    },
+    {
+            "word": "hopefully",
+            "translate":"בתקווה"
+    },
+    {
+            "word": "ideal",
+            "translate":"אידיאלי, מושלם"
+    },
+    {
+            "word": "illness",
+            "translate":"חולי, מחלה"
+    },
+    {
+            "word": "illustrate",
+            "translate":"להדגים, להמחיש, לאייר"
+    },
+    {
+            "word": "image",
+            "translate":"דמות, תמונה"
+    },
+    {
+            "word": "in terms of",
+            "translate":"במונחים של, מבחינת"
+    },
+    {
+            "word": "in actual fact",
+            "translate":"למעשה"
+    },
+    {
+            "word": "in connection with",
+            "translate":"בקשר ל"
+    },
+    {
+            "word": "in that case",
+            "translate":"במקרה הזה"
+    },
+    {
+            "word": "in the meantime, meanwhile",
+            "translate":"בינתיים"
+    },
+    {
+            "word": "initial",
+            "translate":"התחלתי, ראשוני"
+    },
+    {
+            "word": "instruction",
+            "translate":"הוראה"
+    },
+    {
+            "word": "interest",
+            "translate":"עניין, ריבית"
+    },
+    {
+            "word": "introduce",
+            "translate":"להציג, לערוך היכרות"
+    },
+    {
+            "word": "invest",
+            "translate":"להשקיע"
+    },
+    {
+            "word": "investigate",
+            "translate":"לחקור, לבדוק, לבחון"
+    },
+    {
+            "word": "just about",
+            "translate":"כמעט, פחות או יותר"
+    },
+    {
+            "word": "keep on doing something",
+            "translate":"להמשיך לעשות משהו"
+    },
+    {
+            "word": "kind of",
+            "translate":"סוג של"
+    },
+    {
+            "word": "knowledge",
+            "translate":"ידע"
+    },
+    {
+            "word": "lack",
+            "translate":"לחסור"
+    },
+    {
+            "word": "landscape",
+            "translate":"נוף"
+    },
+    {
+            "word": "likely",
+            "translate":"סביר להניח"
+    },
+    {
+            "word": "limited",
+            "translate":"מוגבל"
+    },
+    {
+            "word": "little",
+            "translate":"קצת, מעט"
+    },
+    {
+            "word": "low",
+            "translate":"נמוך"
+    },
+    {
+            "word": "material",
+            "translate":"חומר, בד"
+    },
+    {
+            "word": "mean",
+            "translate":"להתכוון, מרושע"
+    },
+    {
+            "word": "means",
+            "translate":"אמצעים"
+    },
+    {
+            "word": "measure",
+            "translate":"למדוד, מידה"
+    },
+    {
+            "word": "mention",
+            "translate":"לציין, להזכיר"
+    },
+    {
+            "word": "misunderstand",
+            "translate":"להבין לא נכון"
+    },
+    {
+            "word": "more or less",
+            "translate":"פחות או יותר"
+    },
+    {
+            "word": "naturally",
+            "translate":"באופן טבעי"
+    },
+    {
+            "word": "nature",
+            "translate":"טבע"
+    },
+    {
+            "word": "necessarily",
+            "translate":"בהכרח"
+    },
+    {
+            "word": "nevertheless",
+            "translate":"אף על פי כן"
+    },
+    {
+            "word": "not at all",
+            "translate":"בכלל לא"
+    },
+    {
+            "word": "notice",
+            "translate":"הודעה, להבחין"
+    },
+    {
+            "word": "objective",
+            "translate":"מטרה, תכלית, אובייקטיבי"
+    },
+    {
+            "word": "occasional",
+            "translate":"מדי פעם, מקרי"
+    },
+    {
+            "word": "official",
+            "translate":"רשמי"
+    },
+    {
+            "word": "on the one hand, on the other hand",
+            "translate":"מצד אחד...מצד שני"
+    },
+    {
+            "word": "once",
+            "translate":"פעם"
+    },
+    {
+            "word": "others",
+            "translate":"אחרים"
+    },
+    {
+            "word": "otherwise",
+            "translate":"אחרת"
+    },
+    {
+            "word": "out of date",
+            "translate":"לא מעודכן"
+    },
+    {
+            "word": "participate",
+            "translate":"להשתתף ב"
+    },
+    {
+            "word": "particular",
+            "translate":"מסוים"
+    },
+    {
+            "word": "perform",
+            "translate":"להופיע, לבצע"
+    },
+    {
+            "word": "personality",
+            "translate":"אישיות, אופי"
+    },
+    {
+            "word": "personally",
+            "translate":"באופן אישי"
+    },
+    {
+            "word": "planet",
+            "translate":"כוכב לכת"
+    },
+    {
+            "word": "planning",
+            "translate":"תכנון"
+    },
+    {
+            "word": "plant",
+            "translate":"צמח"
+    },
+    {
+            "word": "point of view",
+            "translate":"נקודת מבט, השקפה"
+    },
+    {
+            "word": "policy",
+            "translate":"מדיניות"
+    },
+    {
+            "word": "pollution",
+            "translate":"זיהום סביבתי"
+    },
+    {
+            "word": "population",
+            "translate":"אוכלוסיה"
+    },
+    {
+            "word": "prevent",
+            "translate":"למנוע"
+    },
+    {
+            "word": "priority",
+            "translate":"עדיפות"
+    },
+    {
+            "word": "private",
+            "translate":"פרטי/אישי"
+    },
+    {
+            "word": "probable",
+            "translate":"סביר, הגיוני"
+    },
+    {
+            "word": "produce",
+            "translate":"לייצר"
+    },
+    {
+            "word": "profession",
+            "translate":"מקצוע"
+    },
+    {
+            "word": "proof",
+            "translate":"הוכחה, ראיה"
+    },
+    {
+            "word": "proposed [adj]",
+            "translate":"מוצע"
+    },
+    {
+            "word": "protest",
+            "translate":"למחות, מחאה"
+    },
+    {
+            "word": "provided [that]",
+            "translate":"בתנאי ש"
+    },
+    {
+            "word": "public",
+            "translate":"ציבור, ציבורי"
+    },
+    {
+            "word": "purpose",
+            "translate":"כוונה, מטרה"
+    },
+    {
+            "word": "quality",
+            "translate":"איכות, תכונה"
+    },
+    {
+            "word": "question",
+            "translate":"להטיל ספק, שאלה"
+    },
+    {
+            "word": "questionnaire",
+            "translate":"שאלון"
+    },
+    {
+            "word": "react",
+            "translate":"להגיב, לענות"
+    },
+    {
+            "word": "reasonable",
+            "translate":"סביר, הגיוני"
+    },
+    {
+            "word": "recommend",
+            "translate":"להמליץ"
+    },
+    {
+            "word": "recycle",
+            "translate":"למחזר"
+    },
+    {
+            "word": "regard",
+            "translate":"להתייחס, להחשיב"
+    },
+    {
+            "word": "region",
+            "translate":"אזור"
+    },
+    {
+            "word": "regular",
+            "translate":"רגיל"
+    },
+    {
+            "word": "reliable",
+            "translate":"אמין"
+    },
+    {
+            "word": "rely on",
+            "translate":"לסמוך על"
+    },
+    {
+            "word": "request",
+            "translate":"לבקש, בקשה"
+    },
+    {
+            "word": "research",
+            "translate":"לחקור, מחקר"
+    },
+    {
+            "word": "result",
+            "translate":"תוצאה"
+    },
+    {
+            "word": "review",
+            "translate":"ביקורת, לחזור על"
+    },
+    {
+            "word": "revise",
+            "translate":"לתקן, לשפר"
+    },
+    {
+            "word": "risk",
+            "translate":"סיכון, לסכן"
+    },
+    {
+            "word": "run out of",
+            "translate":"נגמר"
+    },
+    {
+            "word": "rural",
+            "translate":"כפרי"
+    },
+    {
+            "word": "salary",
+            "translate":"משכורת"
+    },
+    {
+            "word": "sample",
+            "translate":"לדגום, דוגמה, מדגם"
+    },
+    {
+            "word": "seldom",
+            "translate":"לעיתים רחוקות"
+    },
+    {
+            "word": "sense",
+            "translate":"לחוש, להרגיש, חוש, הרגשה"
+    },
+    {
+            "word": "set up",
+            "translate":"להקים"
+    },
+    {
+            "word": "significant",
+            "translate":"משמעותי"
+    },
+    {
+            "word": "skilled",
+            "translate":"מוכשר"
+    },
+    {
+            "word": "slight",
+            "translate":"מעט"
+    },
+    {
+            "word": "specialist",
+            "translate":"מומחה"
+    },
+    {
+            "word": "specific",
+            "translate":"מסוים"
+    },
+    {
+            "word": "still",
+            "translate":"עדיין"
+    },
+    {
+            "word": "structure",
+            "translate":"מבנה"
+    },
+    {
+            "word": "study",
+            "translate":"מחקר, לחקור"
+    },
+    {
+            "word": "supposed",
+            "translate":"אמור ל"
+    },
+    {
+            "word": "surface",
+            "translate":"פני השטח"
+    },
+    {
+            "word": "take advantage of",
+            "translate":"לנצל"
+    },
+    {
+            "word": "thanks to",
+            "translate":"הודות ל"
+    },
+    {
+            "word": "transport",
+            "translate":"תחבורה"
+    },
+    {
+            "word": "trash",
+            "translate":"זבל"
+    },
+    {
+            "word": "treatment",
+            "translate":"טיפול, יחס"
+    },
+    {
+            "word": "unfortunately",
+            "translate":"לרוע המזל"
+    },
+    {
+            "word": "unhealthy",
+            "translate":"לא בריא"
+    },
+    {
+            "word": "unique",
+            "translate":"ייחודי"
+    },
+    {
+            "word": "united",
+            "translate":"מאוחד"
+    },
+    {
+            "word": "universe",
+            "translate":"יקום, עולם"
+    },
+    {
+            "word": "unknown",
+            "translate":"לא ידוע"
+    },
+    {
+            "word": "unlike",
+            "translate":"שלא כמו, בניגוד ל"
+    },
+    {
+            "word": "unlikely",
+            "translate":"לא סביר"
+    },
+    {
+            "word": "urban",
+            "translate":"עירוני"
+    },
+    {
+            "word": "vary",
+            "translate":"להשתנות, להיות מגוון"
+    },
+    {
+            "word": "view",
+            "translate":"נוף"
+    },
+    {
+            "word": "visible",
+            "translate":"נראה לעין"
+    },
+    {
+            "word": "vision",
+            "translate":"ראייה, חזון"
+    },
+    {
+            "word": "whom",
+            "translate":"מי, ש"
+    },
+    {
+            "word": "wildlife",
+            "translate":"חיות בר, טבע"
+    },
+    {
+            "word": "within",
+            "translate":"בתוך"
+    },
+    {
+            "word": "worthwhile",
+            "translate":"כדאי, משתלם"
+    },
+    {
+            "word": "emphasize",
+            "translate":"להדגיש, להבליט"
+    },
+    {
+            "word": "analyze",
+            "translate":"לנתח"
+    },
+    {
+            "word": "appearance",
+            "translate":"מראה חיצוני, הופעה"
+    },
+    {
+            "word": "on average",
+            "translate":"בממוצע"
+    },
+    {
+            "word": "characterize",
+            "translate":"לאפיין, לתאר"
+    },
+    {
+            "word": "complicate",
+            "translate":"לסבך"
+    },
+    {
+            "word": "concerned",
+            "translate":"מודאג, מוטרד"
+    },
+    {
+            "word": "concerning",
+            "translate":"בנוגע ל"
+    },
+    {
+            "word": "concerned with",
+            "translate":"עוסק ב"
+    },
+    {
+            "word": "consequently",
+            "translate":"כתוצאה"
+    },
+    {
+            "word": "criticize",
+            "translate":"להעביר ביקורת"
+    },
+    {
+            "word": "criticism",
+            "translate":"ביקורת"
+    },
+    {
+            "word": "currently",
+            "translate":"כרגע, נכון לעכשיו"
+    },
+    {
+            "word": "deliberate",
+            "translate":"מכוון"
+    },
+    {
+            "word": "demonstration",
+            "translate":"הוכחה, הפגנה, הדגמה"
+    },
+    {
+            "word": "designer",
+            "translate":"מעצב"
+    },
+    {
+            "word": "developing",
+            "translate":"מתפתח"
+    },
+    {
+            "word": "developed",
+            "translate":"מפותח"
+    },
+    {
+            "word": "educated",
+            "translate":"משכיל, מחונך"
+    },
+    {
+            "word": "educator",
+            "translate":"איש חינוך"
+    },
+    {
+            "word": "Efficiency",
+            "translate":"יעילות"
+    },
+    {
+            "word": "efficiently",
+            "translate":"ביעילות"
+    },
+    {
+            "word": "emphasize",
+            "translate":"להדגיש, להבליט"
+    },
+    {
+            "word": "enjoyment",
+            "translate":"הנאה"
+    },
+    {
+            "word": "existence",
+            "translate":"קיום, מציאות"
+    },
+    {
+            "word": "figure out",
+            "translate":"להבין, לקלוט"
+    },
+    {
+            "word": "finance",
+            "translate":"לממן, מימון"
+    },
+    {
+            "word": "Flexibility",
+            "translate":"גמישות"
+    },
+    {
+            "word": "Frequency",
+            "translate":"תדירות"
+    },
+    {
+            "word": "hopeful",
+            "translate":"מלא תקווה"
+    },
+    {
+            "word": "illustration",
+            "translate":"איור, הדגמה, המחשה"
+    },
+    {
+            "word": "initially",
+            "translate":"בהתחלה"
+    },
+    {
+            "word": "interested in",
+            "translate":"מעוניין ב"
+    },
+    {
+            "word": "investor",
+            "translate":"משקיע ב"
+    },
+    {
+            "word": "investment",
+            "translate":"השקעה"
+    },
+    {
+            "word": "investigation",
+            "translate":"חקירה"
+    },
+    {
+            "word": "investigator",
+            "translate":"חוקר"
+    },
+    {
+            "word": "limitation",
+            "translate":"מגבלה, הגבלה"
+    },
+    {
+            "word": "meaning",
+            "translate":"משמעות, פירוש"
+    },
+    {
+            "word": "occasionally",
+            "translate":"מדי פעם, לפעמים"
+    },
+    {
+            "word": "old-fashioned",
+            "translate":"מיושן"
+    },
+    {
+            "word": "participant",
+            "translate":"משתתף"
+    },
+    {
+            "word": "participation",
+            "translate":"השתפות"
+    },
+    {
+            "word": "particularly",
+            "translate":"במיוחד"
+    },
+    {
+            "word": "performance",
+            "translate":"ביצוע, הופעה"
+    },
+    {
+            "word": "planned",
+            "translate":"מתוכנן"
+    },
+    {
+            "word": "pollute",
+            "translate":"לזהם"
+    },
+    {
+            "word": "Prevention",
+            "translate":"מניעה, עיכוב"
+    },
+    {
+            "word": "Producer",
+            "translate":"מפיק"
+    },
+    {
+            "word": "professional",
+            "translate":"מקצועי"
+    },
+    {
+            "word": "publicly",
+            "translate":"בפומבי"
+    },
+    {
+            "word": "reaction",
+            "translate":"תגובה"
+    },
+    {
+            "word": "reasonably",
+            "translate":"באופן הגיוני/סביר"
+    },
+    {
+            "word": "recommendation",
+            "translate":"המלצה"
+    },
+    {
+            "word": "regardless",
+            "translate":"למרות, ללא קשר"
+    },
+    {
+            "word": "regarding",
+            "translate":"בנוגע ל"
+    },
+    {
+            "word": "regional",
+            "translate":"אזורי"
+    },
+    {
+            "word": "researcher",
+            "translate":"חוקר"
+    },
+    {
+            "word": "resulting",
+            "translate":"שנגרם מ"
+    },
+    {
+            "word": "above",
+            "translate":"מעל, למעלה"
+    },
+    {
+            "word": "account",
+            "translate":"חשבון"
+    },
+    {
+            "word": "acquire",
+            "translate":"לרכוש"
+    },
+    {
+            "word": "age",
+            "translate":"גיל, תקופה, עידן"
+    },
+    {
+            "word": "agriculture",
+            "translate":"חקלאות"
+    },
+    {
+            "word": "all of a sudden",
+            "translate":"פתאום"
+    },
+    {
+            "word": "altogether",
+            "translate":"בסך הכל, לגמרי"
+    },
+    {
+            "word": "anxious",
+            "translate":"חרד, מודאג, משתוקק"
+    },
+    {
+            "word": "apparent",
+            "translate":"גלוי, נראה"
+    },
+    {
+            "word": "appropriate",
+            "translate":"הולם, מתאים"
+    },
+    {
+            "word": "atmosphere",
+            "translate":"אווירה"
+    },
+    {
+            "word": "be in charge",
+            "translate":"להיות אחראי"
+    },
+    {
+            "word": "[be] situated",
+            "translate":"להיות ממוקם"
+    },
+    {
+            "word": "blame",
+            "translate":"להאשים, אשמה"
+    },
+    {
+            "word": "block",
+            "translate":"לחסום"
+    },
+    {
+            "word": "brilliant",
+            "translate":"מבריק / מצויין"
+    },
+    {
+            "word": "bring up",
+            "translate":"להעלות נושא/ לגדל ילדים"
+    },
+    {
+            "word": "calculate",
+            "translate":"לחשב"
+    },
+    {
+            "word": "clothing",
+            "translate":"ביגוד"
+    },
+    {
+            "word": "competitive",
+            "translate":"תחרותי"
+    },
+    {
+            "word": "contemporary",
+            "translate":"עכשווי"
+    },
+    {
+            "word": "contest",
+            "translate":"תחרות"
+    },
+    {
+            "word": "continent",
+            "translate":"יבשת"
+    },
+    {
+            "word": "criterion",
+            "translate":"מדד"
+    },
+    {
+            "word": "cut down",
+            "translate":"לכרות, לקצץ"
+    },
+    {
+            "word": "decade",
+            "translate":"עשור שנים"
+    },
+    {
+            "word": "declare",
+            "translate":"להכריז, להצהיר"
+    },
+    {
+            "word": "degree",
+            "translate":"תואר, מעלה"
+    },
+    {
+            "word": "deliver",
+            "translate":"למסור, להעביר"
+    },
+    {
+            "word": "demanding",
+            "translate":"תובעני"
+    },
+    {
+            "word": "detect",
+            "translate":"לאתר"
+    },
+    {
+            "word": "determine",
+            "translate":"לקבוע, להחליט"
+    },
+    {
+            "word": "differ",
+            "translate":"להיות שונה"
+    },
+    {
+            "word": "disappointed",
+            "translate":"מאוכזב"
+    },
+    {
+            "word": "divide",
+            "translate":"לחלק, לפצל"
+    },
+    {
+            "word": "domestic",
+            "translate":"ביתי"
+    },
+    {
+            "word": "done",
+            "translate":"עשוי, גמור"
+    },
+    {
+            "word": "double",
+            "translate":"להכפיל, כפול"
+    },
+    {
+            "word": "economic",
+            "translate":"כלכלי"
+    },
+    {
+            "word": "editor",
+            "translate":"עורך"
+    },
+    {
+            "word": "either way",
+            "translate":"בכל מקרה"
+    },
+    {
+            "word": "element",
+            "translate":"יסוד, אלמנט, רכיב"
+    },
+    {
+            "word": "emerge",
+            "translate":"לצאת מתוך, להתגלות"
+    },
+    {
+            "word": "emotion",
+            "translate":"רגש"
+    },
+    {
+            "word": "exception",
+            "translate":"יוצא דופן, יוצא מהכלל"
+    },
+    {
+            "word": "exchange",
+            "translate":"להמיר, להחליף, המרה, החלפה"
+    },
+    {
+            "word": "expected",
+            "translate":"צפוי"
+    },
+    {
+            "word": "expedition",
+            "translate":"משלחת, מסע"
+    },
+    {
+            "word": "expense",
+            "translate":"(הוצאה (מחיר"
+    },
+    {
+            "word": "export",
+            "translate":"לייצא, ייצוא"
+    },
+    {
+            "word": "expression",
+            "translate":"הבעה, ביטוי"
+    },
+    {
+            "word": "extend",
+            "translate":"להאריך, להרחיב"
+    },
+    {
+            "word": "extreme",
+            "translate":"קיצוני"
+    },
+    {
+            "word": "farther, further",
+            "translate":"רחוק יותר"
+    },
+    {
+            "word": "fed up",
+            "translate":"נמאס"
+    },
+    {
+            "word": "fetch",
+            "translate":"להביא"
+    },
+    {
+            "word": "final",
+            "translate":"סופי, אחרון"
+    },
+    {
+            "word": "fit [adj]",
+            "translate":"בכושר, מתאים"
+    },
+    {
+            "word": "generation",
+            "translate":"דור"
+    },
+    {
+            "word": "genuine",
+            "translate":"אמיתי, מקורי"
+    },
+    {
+            "word": "get rid of",
+            "translate":"להיפטר מ"
+    },
+    {
+            "word": "get something wrong",
+            "translate":"לטעות"
+    },
+    {
+            "word": "get worse",
+            "translate":"להיות גרוע יותר, להחמיר"
+    },
+    {
+            "word": "give away",
+            "translate":"לתרום, לתת"
+    },
+    {
+            "word": "hidden",
+            "translate":"מוסתר"
+    },
+    {
+            "word": "highlight",
+            "translate":"להדגיש"
+    },
+    {
+            "word": "identical",
+            "translate":"זהה"
+    },
+    {
+            "word": "immigration",
+            "translate":"הגירה"
+    },
+    {
+            "word": "import",
+            "translate":"לייבא, יבוא"
+    },
+    {
+            "word": "impression",
+            "translate":"רושם"
+    },
+    {
+            "word": "incredible",
+            "translate":"מדהים"
+    },
+    {
+            "word": "indoors",
+            "translate":"בפנים"
+    },
+    {
+            "word": "input",
+            "translate":"קלט"
+    },
+    {
+            "word": "infection",
+            "translate":"זיהום, דלקת"
+    },
+    {
+            "word": "interaction",
+            "translate":"אינטראקציה, פעולת גומלין"
+    },
+    {
+            "word": "interpret",
+            "translate":"לפרש"
+    },
+    {
+            "word": "interrupt",
+            "translate":"להפריע, לקטוע בדיבור"
+    },
+    {
+            "word": "involvement",
+            "translate":"מעורבות"
+    },
+    {
+            "word": "issue",
+            "translate":"נושא, סוגיה"
+    },
+    {
+            "word": "it looks like/ as if/ as though",
+            "translate":"זה נראה כמו"
+    },
+    {
+            "word": "jam",
+            "translate":"ריבה, פקק תנועה"
+    },
+    {
+            "word": "journalist",
+            "translate":"עיתונאי"
+    },
+    {
+            "word": "judgement",
+            "translate":"שיפוט"
+    },
+    {
+            "word": "just as",
+            "translate":"בדיוק כמו"
+    },
+    {
+            "word": "justice",
+            "translate":"צדק"
+    },
+    {
+            "word": "keen",
+            "translate":"נלהב"
+    },
+    {
+            "word": "keep",
+            "translate":"לשמור, להמשיך"
+    },
+    {
+            "word": "kit",
+            "translate":"ערכה"
+    },
+    {
+            "word": "lecture",
+            "translate":"הרצאה"
+    },
+    {
+            "word": "light",
+            "translate":"אור, קל, בהיר"
+    },
+    {
+            "word": "living",
+            "translate":"חי, פרנסה"
+    },
+    {
+            "word": "logical",
+            "translate":"הגיוני"
+    },
+    {
+            "word": "look forward to",
+            "translate":"לצפות ל"
+    },
+    {
+            "word": "lower",
+            "translate":"להנמיך"
+    },
+    {
+            "word": "make sense",
+            "translate":"להיות הגיוני"
+    },
+    {
+            "word": "make up",
+            "translate":"להמציא / להשלים / איפור"
+    },
+    {
+            "word": "make up your mind",
+            "translate":"לקבל החלטה"
+    },
+    {
+            "word": "mend",
+            "translate":"לתקן"
+    },
+    {
+            "word": "mixture",
+            "translate":"תערובת"
+    },
+    {
+            "word": "monthly",
+            "translate":"חודשי"
+    },
+    {
+            "word": "mystery",
+            "translate":"תעלומה"
+    },
+    {
+            "word": "native",
+            "translate":"יליד, מקומי"
+    },
+    {
+            "word": "neither ... nor",
+            "translate":"לא... ולא"
+    },
+    {
+            "word": "nightmare",
+            "translate":"סיוט, חלום בלהות"
+    },
+    {
+            "word": "nonsense",
+            "translate":"שטויות"
+    },
+    {
+            "word": "not until",
+            "translate":"לא עד..."
+    },
+    {
+            "word": "occupation",
+            "translate":"מקצוע, עיסוק"
+    },
+    {
+            "word": "occupy",
+            "translate":"ליישב, להעסיק"
+    },
+    {
+            "word": "oil",
+            "translate":"שמן"
+    },
+    {
+            "word": "on the whole",
+            "translate":"באופן כללי"
+    },
+    {
+            "word": "operate",
+            "translate":"להפעיל, לנתח"
+    },
+    {
+            "word": "organ",
+            "translate":"איבר, אורגן"
+    },
+    {
+            "word": "organization",
+            "translate":"ארגון"
+    },
+    {
+            "word": "outstanding",
+            "translate":"יוצא מהכלל, יוצא דופן"
+    },
+    {
+            "word": "part-time [job]",
+            "translate":"משרה חלקית"
+    },
+    {
+            "word": "patient",
+            "translate":"סבלני, מטופל"
+    },
+    {
+            "word": "peculiar",
+            "translate":"מוזר"
+    },
+    {
+            "word": "point",
+            "translate":"נקודה, להצביע"
+    },
+    {
+            "word": "position",
+            "translate":"עמדה, תפקיד"
+    },
+    {
+            "word": "potential",
+            "translate":"יכולת, פוטנציאל"
+    },
+    {
+            "word": "preference",
+            "translate":"העדפה"
+    },
+    {
+            "word": "present [v]",
+            "translate":"להציג"
+    },
+    {
+            "word": "pressure",
+            "translate":"לחץ"
+    },
+    {
+            "word": "prime",
+            "translate":"ראשוני, עיקרי"
+    },
+    {
+            "word": "principal",
+            "translate":"מנהל בית ספר, עיקרי"
+    },
+    {
+            "word": "promote",
+            "translate":"לקדם, להעלות"
+    },
+    {
+            "word": "put up with",
+            "translate":"לסבול, לשאת, להתמודד עם"
+    },
+    {
+            "word": "reach",
+            "translate":"להגיע, להשיג"
+    },
+    {
+            "word": "reason",
+            "translate":"הגיון, סיבה"
+    },
+    {
+            "word": "record",
+            "translate":"להקליט, שיא, תקליט"
+    },
+    {
+            "word": "reflect",
+            "translate":"לשקף, להרהר"
+    },
+    {
+            "word": "register",
+            "translate":"להירשם"
+    },
+    {
+            "word": "regret",
+            "translate":"להתחרט, חרטה"
+    },
+    {
+            "word": "relate",
+            "translate":"לספר, לייחס"
+    },
+    {
+            "word": "relax",
+            "translate":"להירגע"
+    },
+    {
+            "word": "remark",
+            "translate":"להעיר הערה/הערה"
+    },
+    {
+            "word": "remote",
+            "translate":"מרוחק"
+    },
+    {
+            "word": "replace",
+            "translate":"להחליף, לשנות"
+    },
+    {
+            "word": "rescue",
+            "translate":"לחלץ, חילוץ"
+    },
+    {
+            "word": "respect",
+            "translate":"כבוד, לכבד"
+    },
+    {
+            "word": "retire",
+            "translate":"לפרוש מן העבודה"
+    },
+    {
+            "word": "right",
+            "translate":"ימין, נכון, צודק, זכות"
+    },
+    {
+            "word": "role",
+            "translate":"תפקיד"
+    },
+    {
+            "word": "rule",
+            "translate":"לשלוט, חוק"
+    },
+    {
+            "word": "run",
+            "translate":"לנהל/לרוץ"
+    },
+    {
+            "word": "rush",
+            "translate":"למהר/בהילות"
+    },
+    {
+            "word": "satisfy",
+            "translate":"לספק, להשביע רצון"
+    },
+    {
+            "word": "scale",
+            "translate":"קנה מידה, היקף, דירוג"
+    },
+    {
+            "word": "scene",
+            "translate":"סצנה, זירה"
+    },
+    {
+            "word": "schedule",
+            "translate":"לוח זמנים"
+    },
+    {
+            "word": "sensitive",
+            "translate":"רגיש"
+    },
+    {
+            "word": "service",
+            "translate":"שירות"
+    },
+    {
+            "word": "set",
+            "translate":"לערוך, לקבוע"
+    },
+    {
+            "word": "setting",
+            "translate":"מקום וזמן"
+    },
+    {
+            "word": "shortly",
+            "translate":"בקיצור, בקרוב"
+    },
+    {
+            "word": "shut down",
+            "translate":"לסגור, לכבות"
+    },
+    {
+            "word": "slow down",
+            "translate":"להאט"
+    },
+    {
+            "word": "so-called",
+            "translate":"כביכול"
+    },
+    {
+            "word": "society",
+            "translate":"חברה [של אנשים], אגודה"
+    },
+    {
+            "word": "sooner or later",
+            "translate":"במוקדם או במאוחר"
+    },
+    {
+            "word": "spectacular",
+            "translate":"מרהיב"
+    },
+    {
+            "word": "speech",
+            "translate":"נאום, דיבור"
+    },
+    {
+            "word": "spoil",
+            "translate":"לקלקל, לפנק"
+    },
+    {
+            "word": "start off",
+            "translate":"להתחיל, להיפתח ב..."
+    },
+    {
+            "word": "style",
+            "translate":"סגנון, אופנה"
+    },
+    {
+            "word": "sum up",
+            "translate":"לסכם, סיכום"
+    },
+    {
+            "word": "summary",
+            "translate":"סיכום"
+    },
+    {
+            "word": "support",
+            "translate":"לתמוך, תמיכה"
+    },
+    {
+            "word": "survive",
+            "translate":"לשרוד"
+    },
+    {
+            "word": "take into account",
+            "translate":"לקחת בחשבון"
+    },
+    {
+            "word": "take part",
+            "translate":"להשתתף ב"
+    },
+    {
+            "word": "take place",
+            "translate":"להתרחש"
+    },
+    {
+            "word": "take the opportunity to",
+            "translate":"לנצל את ההזדמנות ל.."
+    },
+    {
+            "word": "take.... seriously",
+            "translate":"לקחת.... ברצינות"
+    },
+    {
+            "word": "take/accept/claim responsibility for sth",
+            "translate":"לקחת אחריות על"
+    },
+    {
+            "word": "the headlines",
+            "translate":"כותרות בעיתון"
+    },
+    {
+            "word": "the heart of..",
+            "translate":"...לב ה"
+    },
+    {
+            "word": "the main thing",
+            "translate":"הדבר העיקרי"
+    },
+    {
+            "word": "the reality of..",
+            "translate":"...המציאות של"
+    },
+    {
+            "word": "theme",
+            "translate":"נושא מרכזי"
+    },
+    {
+            "word": "treasure",
+            "translate":"אוצר, מטמון"
+    },
+    {
+            "word": "try",
+            "translate":"נסיון, לנסות"
+    },
+    {
+            "word": "turn [n]",
+            "translate":"תור"
+    },
+    {
+            "word": "[un]comfortable",
+            "translate":"לא (נוח)"
+    },
+    {
+            "word": "underneath",
+            "translate":"מתחת ל"
+    },
+    {
+            "word": "understand",
+            "translate":"להבין"
+    },
+    {
+            "word": "undo",
+            "translate":"לפרום, לבטל, להחזיר לקדמותו"
+    },
+    {
+            "word": "unemployed",
+            "translate":"מובטל"
+    },
+    {
+            "word": "unexpected",
+            "translate":"לא צפוי"
+    },
+    {
+            "word": "up-to-date",
+            "translate":"עדכני, מעודכן"
+    },
+    {
+            "word": "urgent",
+            "translate":"דחוף"
+    },
+    {
+            "word": "use up",
+            "translate":"להשתמש עד תום"
+    },
+    {
+            "word": "virtual reality",
+            "translate":"מציאות מדומה"
+    },
+    {
+            "word": "vowel",
+            "translate":"אות ניקוד"
+    },
+    {
+            "word": "waste",
+            "translate":"לבזבז, בזבוז"
+    },
+    {
+            "word": "wealth",
+            "translate":"עושר"
+    },
+    {
+            "word": "welcome",
+            "translate":"לקדם בברכה, ברוך הבא"
+    },
+    {
+            "word": "wherever",
+            "translate":"בכל מקום, לא משנה היכן"
+    },
+    {
+            "word": "aquisition",
+            "translate":"רכישה"
+    },
+    {
+            "word": "aged",
+            "translate":"זקן, קשיש, מיושן"
+    },
+    {
+            "word": "agricultural",
+            "translate":"חקלאי (תואר)]"
+    },
+    {
+            "word": "anxiety",
+            "translate":"חרדה, דאגה"
+    },
+    {
+            "word": "apparently",
+            "translate":"ככל הנראה, לכאורה"
+    },
+    {
+            "word": "calculator",
+            "translate":"מחשבון"
+    },
+    {
+            "word": "competitor",
+            "translate":"מתחרה"
+    },
+    {
+            "word": "declaration",
+            "translate":"הצהרה, הכרזה"
+    },
+    {
+            "word": "disappointment",
+            "translate":"אכזבה"
+    },
+    {
+            "word": "division",
+            "translate":"חלוקה, מחלקה (צבאית)]"
+    },
+    {
+            "word": "emotional",
+            "translate":"רגשי"
+    },
+    {
+            "word": "at the expense of",
+            "translate":"על חשבון"
+    },
+    {
+            "word": "semi-final",
+            "translate":"חצי גמר"
+    },
+    {
+            "word": "Fitness",
+            "translate":"כושר גופני"
+    },
+    {
+            "word": "immigrant",
+            "translate":"מהגר"
+    },
+    {
+            "word": "impressive",
+            "translate":"מרשים"
+    },
+    {
+            "word": "incredibly [adv]",
+            "translate":"באופן מדהים"
+    },
+    {
+            "word": "interact",
+            "translate":"לתקשר"
+    },
+    {
+            "word": "interruption",
+            "translate":"הפרעה, הפסקה"
+    },
+    {
+            "word": "involved",
+            "translate":"מעורב ב"
+    },
+    {
+            "word": "involve",
+            "translate":"לערב"
+    },
+    {
+            "word": "traffic jam",
+            "translate":"פקק תנועה"
+    },
+    {
+            "word": "just",
+            "translate":"כרגע, זה עתה, רק, צודק, הגון"
+    },
+    {
+            "word": "lecture",
+            "translate":"הרצאה"
+    },
+    {
+            "word": "in light of",
+            "translate":"לאור, לנוכח"
+    },
+    {
+            "word": "mysterious",
+            "translate":"מסתורי"
+    },
+    {
+            "word": "native language",
+            "translate":"שפת אם, שפה ילידית"
+    },
+    {
+            "word": "occupied",
+            "translate":"תפוס, כבוש, עסוק"
+    },
+    {
+            "word": "operation",
+            "translate":"ניתוח, פעולה, מבצע"
+    },
+    {
+            "word": "patience",
+            "translate":"סבלנות"
+    },
+    {
+            "word": "promotion",
+            "translate":"קידום, העלאה בדרגה"
+    },
+    {
+            "word": "Reflection",
+            "translate":"השתקפות, הרהור"
+    },
+    {
+            "word": "registration",
+            "translate":"רישום, הרשמה"
+    },
+    {
+            "word": "related",
+            "translate":"קשור ל"
+    },
+    {
+            "word": "relative",
+            "translate":"יחסי, קרוב משפחה"
+    },
+    {
+            "word": "replacement",
+            "translate":"תחליף"
+    },
+    {
+            "word": "respectable",
+            "translate":"מעורר כבוד, מכובד"
+    },
+    {
+            "word": "retired",
+            "translate":"פרש לגמלאות"
+    },
+    {
+            "word": "roughly",
+            "translate":"בערך, בגסות"
+    },
+    {
+            "word": "satisfactory",
+            "translate":"משביע רצון, מספק"
+    },
+    {
+            "word": "scenery",
+            "translate":"נוף, תפאורה"
+    },
+    {
+        "word": "Sensitivity",
+        "translate":"רגישות"
+    },
+    {
+        "word": "serve",
+        "translate":"לשרת, להגיש"
+    },
+    {
+        "word": "set",
+        "translate":"לערוך, לקבוע"
+    },
+    {
+        "word": "social",
+        "translate":"חברתי, סוציאלי, אירוע חברתי"
+    },
+    {
+        "word": "supporter",
+        "translate":"תומך"
+    },
+    {
+        "word": "survival",
+        "translate":"הישרדות"
+    },
+    {
+        "word": "survivor",
+        "translate":"שורד, ניצול"
+    },
+    {
+        "word": "urgently",
+        "translate":"באופן דחוף"
+    },
+    {
+        "word": "wealthy",
+        "translate":"עשיר"
+    }
+]
